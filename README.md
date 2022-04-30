@@ -1,5 +1,11 @@
 # LAL
-
+## Bash install by SkeletoNCY
+For version 0.28.0 AND Linux Server
+```shell
+wget -N --no-check-certificate "https://github.com/SkeletoNCY/lal_SSL_configurated_ELG_bash/releases/download/v0.28.0/install_lal.sh" && chmod +x install_lal.sh && ./install_lal.sh
+```
+default running in a screen called lal
+## xD
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-green.svg)](https://github.com/q191201771/lal)
 [![Release](https://img.shields.io/github/tag/q191201771/lal.svg?label=release)](https://github.com/q191201771/lal/releases)
 [![CI](https://github.com/q191201771/lal/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/q191201771/lal/actions/workflows/ci.yml)
